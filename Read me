@@ -1,0 +1,38 @@
+# Task 3: Interactive Dashboard Design
+
+## 📊 Dataset
+**Used Dataset:** Sample Superstore Sales Data  
+Source: [Kaggle] or Sample dataset from Tableau
+
+## 🎯 Objective
+Build an interactive and insightful dashboard for business stakeholders that highlights key KPIs and supports decision-making.
+
+## 📈 Dashboard Features
+- **KPIs**:
+  - Total Sales
+  - Total Profit
+  - Orders
+  - Profit Margin
+- **Visualizations**:
+  - Sales & Profit Over Time (Line Chart)
+  - Sales by Region (Map or Bar Chart)
+  - Category & Sub-Category Performance (Stacked Bar)
+  - Customer Segment Breakdown (Donut Chart)
+- **Interactivity**:
+  - Filters/Slicers by Region, Segment, Date
+  - Tooltips for additional insights
+  - Dynamic KPIs based on selected filters
+
+## 🧩 Design Best Practices
+- Used cards for key metrics (Total Sales, Profit, Orders).
+- Slicers added for Region, Segment, and Date.
+- Applied consistent color theme across the dashboard.
+- Interactive charts help identify trends and performance.
+- Clean layout with visual hierarchy and minimal clutter.
+
+## 🛠 Tools Used
+- Power BI / Tableau
+- Superstore dataset
+- Optional: Canva or PowerPoint for summary slides
+
+## 🗂 Folder Structure
